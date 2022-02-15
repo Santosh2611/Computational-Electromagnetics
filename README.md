@@ -1,2 +1,1 @@
-# Computational-Electromagnetics
-Demonstration of the mini-lab component activities conducted for the course of Computational Electromagnetics (19CCE203). 
+Demonstration of the mini-lab component activities conducted for the course of Computational Electromagnetics (19CCE203). Small scale electromagnetic situations were implemented employing MATLAB. It provides the basic skills required to understand, develop, and design various engineering applications involving electromagnetic fields. It also lays the foundations of electromagnetism and its practice in modern communications such as wireless, guided wave principles such as fiber optics and electronic electromagnetic structures.
